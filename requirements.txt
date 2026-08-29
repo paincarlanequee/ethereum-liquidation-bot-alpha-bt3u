@@ -1,0 +1,5 @@
+# Generated deps — tag 234cb736
+rich>=13.7.0,<14
+pyyaml>=6.0.1,<7
+click>=8.1.0,<9
+requests>=2.31.0,<3
