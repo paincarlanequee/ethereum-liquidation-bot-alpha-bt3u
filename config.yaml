@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (234cb73693c83c1e)
+project:
+  name: ethereum-liquidation-bot-alpha-bt3u
+  tag: 234cb73693c83c1e
+  env: production
+cfg_sharde0vwi3:
+  enabled: true
+  workers: 8
+cfg_pulseooykgy:
+  timeout_sec: 38
+  retry: 3
+cfg_buffer2nuxsn:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
