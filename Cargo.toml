@@ -1,0 +1,9 @@
+[package]
+name = "ethereum_liquidation_bot_alpha_b"
+version = "0.1.1"
+edition = "2021"
+description = "Utility scaffold — tag 234cb736"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
